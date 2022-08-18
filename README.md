@@ -8,5 +8,4 @@ Para esto se crearon dos tableros:
 
 • En el segundo se analiza como varian las mediciones de GR totales para 5 localidades donde se perforó el Miembro Pilmatué. Además se suman a este analisis las mediciones de GR relevadas en la campaña en Loma La Torre (LLT).
 
-Para ingresar al informe dinámico:
-https://app.powerbi.com/view?r=eyJrIjoiNDQ5MTJjNTAtNjE0ZC00ZmU0LTg1ZmYtYjI5Yjc5M2E3OTRlIiwidCI6IjliOTI5NDVmLTdkNmItNGE4NC1iYzMzLTBhZjA5ZGQxZTM5NiJ9
+Para ingresar al informe dinámico: https://app.powerbi.com/view?r=eyJrIjoiNDQ5MTJjNTAtNjE0ZC00ZmU0LTg1ZmYtYjI5Yjc5M2E3OTRlIiwidCI6IjliOTI5NDVmLTdkNmItNGE4NC1iYzMzLTBhZjA5ZGQxZTM5NiJ9
