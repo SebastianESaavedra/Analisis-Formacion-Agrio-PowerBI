@@ -19,5 +19,4 @@ Se analizaron datos de campo y subsuelo de radioactividad de *rayos gamma de los
 <img align="center" alt="tablero2" width="400" src="https://github.com/SebastianESaavedra/Analisis-Formacion-Agrio-PowerBI/blob/main/tablero%202.PNG">
 </p>
 
-➡Para ingresar al informe dinámico: 
-https://app.powerbi.com/view?r=eyJrIjoiNDQ5MTJjNTAtNjE0ZC00ZmU0LTg1ZmYtYjI5Yjc5M2E3OTRlIiwidCI6IjliOTI5NDVmLTdkNmItNGE4NC1iYzMzLTBhZjA5ZGQxZTM5NiJ9
+➡Para ingresar al informe dinámico: https://app.powerbi.com/view?r=eyJrIjoiNDQ5MTJjNTAtNjE0ZC00ZmU0LTg1ZmYtYjI5Yjc5M2E3OTRlIiwidCI6IjliOTI5NDVmLTdkNmItNGE4NC1iYzMzLTBhZjA5ZGQxZTM5NiJ9 
