@@ -1,6 +1,7 @@
 **Análisis de la Formación Agrio en Power BI basado en datos de tesis de licenciatura: Sebastian Saavedra**
-
- <img align="center" alt="portada" width="400" src= "https://github.com/SebastianESaavedra/Analisis-Formacion-Agrio-PowerBI/blob/main/Portada%20Proyecto.PNG">
+<p align="center">
+<img align="center" alt="portada" width="400" src= "https://github.com/SebastianESaavedra/Analisis-Formacion-Agrio-PowerBI/blob/main/Portada%20Proyecto.PNG">
+</p>
  
 Se analizaron datos de campo y subsuelo de radioactividad de *rayos gamma de los Miembros Pilmatué y Avilé* en la Cuenca Neuquina, asociando tendencias con interpretaciones geológicas.
 
