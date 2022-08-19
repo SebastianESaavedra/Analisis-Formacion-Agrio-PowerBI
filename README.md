@@ -5,7 +5,7 @@
  
 Se analizaron datos de campo y subsuelo de radioactividad de *rayos gamma de los Miembros Pilmatué y Avilé* en la Cuenca Neuquina, asociando tendencias con interpretaciones geológicas.
 
-☑Para esto se crearon dos tableros:
+Para esto se crearon dos tableros:
 
 
 • El primero corresponde unicamente a la localidad de *Loma La Torre*, donde se analizan las variaciones de **GR total, K, Th y U** respecto a interpretaciones geologicas: como el **ambiente, facies, cortejo, sección** a la que pertenece. Asi también la relación entre estos elementos con la medida de GR total.
@@ -19,4 +19,4 @@ Se analizaron datos de campo y subsuelo de radioactividad de *rayos gamma de los
 <img align="center" alt="tablero2" width="400" src="https://github.com/SebastianESaavedra/Analisis-Formacion-Agrio-PowerBI/blob/main/tablero2.PNG">
 </p>
 
-➡Para ingresar al informe dinámico: https://app.powerbi.com/view?r=eyJrIjoiNDQ5MTJjNTAtNjE0ZC00ZmU0LTg1ZmYtYjI5Yjc5M2E3OTRlIiwidCI6IjliOTI5NDVmLTdkNmItNGE4NC1iYzMzLTBhZjA5ZGQxZTM5NiJ9&pageName=ReportSectione03930acd173018cc7dd
+-->Para ingresar al informe dinámico: https://app.powerbi.com/view?r=eyJrIjoiNDQ5MTJjNTAtNjE0ZC00ZmU0LTg1ZmYtYjI5Yjc5M2E3OTRlIiwidCI6IjliOTI5NDVmLTdkNmItNGE4NC1iYzMzLTBhZjA5ZGQxZTM5NiJ9&pageName=ReportSectione03930acd173018cc7dd
